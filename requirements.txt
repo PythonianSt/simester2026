@@ -1,0 +1,6 @@
+streamlit
+openai
+pandas
+requests
+qrcode[pil]
+pillow
